@@ -164,6 +164,11 @@ img {vertical-align: middle;}
 	cursor:pointer;
 }
 
+.lien:hover {
+	text-decoration:underline;
+	cursor:pointer;
+}
+
 .prezcv img{
 	border-radius:100%;
 	margin-left:-45px;
